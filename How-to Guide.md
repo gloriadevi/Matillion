@@ -13,8 +13,7 @@ This guide will show you how to create an account with Matillion.
 >
 > Follow these steps to register for a Hub account:
 
--   Access the [Matillion
-    Hub](https://docs.matillion.com/data-productivity-cloud/hub/docs/registration/),
+-   Access the [Matillion Hub](https://docs.matillion.com/data-productivity-cloud/hub/docs/registration/),
     and click the **Sign Up** tab.
 
 > ![](./images/media/image1.png){width="3.052509842519685in"
@@ -71,8 +70,7 @@ This guide will show you how to create an account with Matillion.
 
 Follow these steps to set up your profile:
 
--   After you have created your profile, select the region for your
-    Matillion account.
+-   After you have created your profile, select the region for your Matillion account.
 
 -   Click **Continue.**
 
@@ -86,8 +84,7 @@ Follow these steps to set up your profile:
 
 > Follow these steps to get started:
 
--   After you have set up your account, select **Matillion Trial
-    Warehouse** from available data platforms.
+-   After you have set up your account, select **Matillion Trial Warehouse** from available data platforms.
 
 -   Click **Continue**.
 
