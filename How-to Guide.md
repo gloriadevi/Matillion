@@ -1,4 +1,4 @@
-# Matillion How-to Guide
+# Matillion: How-to Guide
 
 ## How to create an account with Matillion
 
