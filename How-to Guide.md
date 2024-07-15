@@ -1,6 +1,6 @@
-Matillion How-to Guide
+# Matillion How-to Guide
 
-How to create an account with Matillion
+## How to create an account with Matillion
 
 This guide will show you how to create an account with Matillion.
 
