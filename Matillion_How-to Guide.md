@@ -4,11 +4,14 @@
 
 This guide will show you how to create an account with Matillion.
 
-1.  **Registering on the Matillion Hub**
+1. **Registering on the Matillion Hub**
+   
 To access the services offered by the Matillion Hub, individuals interested in becoming users must complete the registration process.
 > This section provides instructions for new customers on how to register for a Hub account.
-> Follow these steps to register for a Hub account:
-- Access the [Matillion Hub](https://docs.matillion.com/data-productivity-cloud/hub/docs/registration/), and click the **Sign Up** tab.
+
+Follow these steps to register for a Hub account:
+- Access the [Matillion Hub](https://hub.matillion.com), and click the **Sign Up** tab.
+
 ![](./images/media/image1.png)
 - Enter your company email address and choose a password, then click **SIGN UP.**
 > **Note:** When registering with the Hub, use your company email > address; personal email addresses are not allowed for registration.
