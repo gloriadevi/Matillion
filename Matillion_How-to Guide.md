@@ -53,7 +53,7 @@ Follow these steps to set up your profile:
 <kbd>![](./images/media/image4.png)</kbd>
 
 5. **Selecting a data platform**
-> Follow these steps to get started:
+Follow these steps to get started:
 -   After you have set up your account, select **Matillion Trial Warehouse** from available data platforms.
 -   Click **Continue**.
 
@@ -67,7 +67,7 @@ For any help, contact the Matillion support team:
 - Website: www.matillion.com
 - Web support: https://support.matillion.com
 
-**List of resources**
+**Useful resources**
 
 | Topic name | Links |
 | ------ | ------ |
