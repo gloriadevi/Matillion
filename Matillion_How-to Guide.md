@@ -16,14 +16,14 @@ Follow these steps to register for a Hub account:
 - Enter your company email address and choose a password, then click **SIGN UP.**
 > **Note:** When registering with the Hub, use your company email > address; personal email addresses are not allowed for registration.
 - Alternatively, you can sign in with your existing third-party identity provider. Click the relevant button for your provider.
-2.  **Verifying your email address**
+2. **Verifying your email address**
 > Follow these steps to verify your email address and to activate your account:
 - After registration using a password, follow the email verification process. Verify your email by following the prompts in the email you receive.
 - Return to the Hub and log in using your credentials.
 
 > **Note:** If you have used a third-party identity provider, you can proceed directly to ''Creating your profile'' (add hyperlink to the topic) without needing to provide an email.
 
-3.  **Creating your profile**
+3. **Creating your profile**
 > Follow these steps to create your profile:
 -   After you have logged in, answer some basic questions about your
     purpose to sign up with the Matillion Hub.
@@ -37,7 +37,7 @@ Follow these steps to register for a Hub account:
 
 ![](./images/media/image3.png)
 
-4.  **Setting up your account**
+4. **Setting up your account**
 
 >Follow these steps to set up your profile:
 
@@ -47,7 +47,7 @@ Follow these steps to register for a Hub account:
 
 ![](./images/media/image5.png)
 
-5.  **Selecting a data platform**
+5. **Selecting a data platform**
 > Follow these steps to get started:
 -   After you have set up your account, select **Matillion Trial Warehouse** from available data platforms.
 -   Click **Continue**.
