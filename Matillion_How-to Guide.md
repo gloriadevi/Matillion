@@ -2,7 +2,7 @@
 
 ## How to create an account with Matillion
 
-This guide will show you how to create an account with Matillion.
+This guide shows you how to create an account with Matillion.
 
 1. **Registering on the Matillion Hub**
    
