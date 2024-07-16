@@ -13,6 +13,7 @@ Follow these steps to register for a Hub account:
 - Access the [Matillion Hub](https://hub.matillion.com), and click the **Sign Up** tab.
 
 ![](./images/media/image1.png)
+<img src= "/images/media/image1.png" alt="Registering on Matillion Hub" style="border: 2px black;">
 
 - Enter your company email address and choose a password, then click **SIGN UP.**
 > **Note:** When registering with the Hub, use your company email > address; personal email addresses are not allowed for registration.
