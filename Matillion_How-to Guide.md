@@ -16,7 +16,7 @@ Follow these steps to register for a Hub account:
 <kbd>![](./images/media/image1.png)</kbd>
 
 - Enter your company email address and choose a password, then click **SIGN UP**.
-> **Note:** When registering with the Hub, use your company email > address; personal email addresses are not allowed for registration.
+> **Note:** When registering with the Hub, use your company email address; personal email addresses are not allowed for registration.
 - Alternatively, you can sign in with your existing third-party identity provider. Click the relevant button for your provider.
 2. **Verifying your email address**
   
