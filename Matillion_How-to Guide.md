@@ -29,12 +29,15 @@ Follow these steps to register for a Hub account:
 -   After you have logged in, answer some basic questions about your
     purpose to sign up with the Matillion Hub.
 -   Click **Continue**.
+
+  
 <kbd>![](./images/media/image2.png)</kbd>
 -   Enter the details requested and a phone number (optional) on the
     **Create your profile** page.
     -   Check the box to accept the **Master Subscription Agreement**
         and **Privacy Policy**.
     -   Click **Continue**.
+
 
 <kbd>![](./images/media/image3.png)</kbd>
 
@@ -44,6 +47,8 @@ Follow these steps to register for a Hub account:
 
 -   After you have created your profile, select the region for your Matillion account.
 -   Click **Continue.**
+
+  
 <kbd>![](./images/media/image4.png)</kbd>
 
 
