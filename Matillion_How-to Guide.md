@@ -26,7 +26,7 @@ Follow these steps to verify your email address and to activate your account:
 -   After registration using a password, follow the email verification process. Verify your email by following the prompts in the email you receive.
 -   Return to the Hub and log in using your credentials.
 
-> **Note:** If you have used a third-party identity provider, you can proceed directly to ''Creating your profile''section without needing to provide an email.
+> **Note:** If you have used a third-party identity provider, you can proceed directly to ''Creating your profile'' section without needing to provide an email.
 
 3. **Creating your profile**
 
@@ -53,6 +53,7 @@ Follow these steps to set up your profile:
 <kbd>![](./images/media/image4.png)</kbd>
 
 5. **Selecting a data platform**
+
 Follow these steps to get started:
 -   After you have set up your account, select **Matillion Trial Warehouse** from available data platforms.
 -   Click **Continue**.
