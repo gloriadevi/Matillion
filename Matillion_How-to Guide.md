@@ -52,7 +52,7 @@ Follow these steps to register for a Hub account:
 -   After you have set up your account, select **Matillion Trial Warehouse** from available data platforms.
 -   Click **Continue**.
 
-Next steps
+**Support Information:**
 
 Include links
 
