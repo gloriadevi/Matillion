@@ -11,8 +11,8 @@ To access the services offered by the Matillion Hub, individuals interested in b
 
 Follow these steps to register for a Hub account:
 - Access the [Matillion Hub](https://hub.matillion.com), and click the **Sign Up** tab.
-
-![](./images/media/image1.png)
+  
+<kbd>![](./images/media/image1.png)</kbd>
 
 - Enter your company email address and choose a password, then click **SIGN UP.**
 > **Note:** When registering with the Hub, use your company email > address; personal email addresses are not allowed for registration.
@@ -29,14 +29,14 @@ Follow these steps to register for a Hub account:
 -   After you have logged in, answer some basic questions about your
     purpose to sign up with the Matillion Hub.
 -   Click **Continue**.
-![](./images/media/image2.png)
+<kbd>![](./images/media/image2.png)</kbd>
 -   Enter the details requested and a phone number (optional) on the
     **Create your profile** page.
     -   Check the box to accept the **Master Subscription Agreement**
         and **Privacy Policy**.
     -   Click **Continue**.
 
-![](./images/media/image3.png)
+<kbd>![](./images/media/image3.png)</kbd>
 
 4. **Setting up your account**
 
@@ -44,9 +44,9 @@ Follow these steps to register for a Hub account:
 
 -   After you have created your profile, select the region for your Matillion account.
 -   Click **Continue.**
-![](./images/media/image4.png)
+<kbd>![](./images/media/image4.png)</kbd>
 
-![](./images/media/image5.png)
+<kbd>![](./images/media/image5.png)</kbd>
 
 5. **Selecting a data platform**
 > Follow these steps to get started:
