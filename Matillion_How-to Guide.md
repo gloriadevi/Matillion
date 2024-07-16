@@ -46,6 +46,7 @@ Follow these steps to register for a Hub account:
 -   Click **Continue.**
 <kbd>![](./images/media/image4.png)</kbd>
 
+
 <kbd>![](./images/media/image5.png)</kbd>
 
 5. **Selecting a data platform**
