@@ -1,1 +1,1 @@
-This guide shows the user how to create an account with Matillion.
+This guide provides instructions for users on creating an account with Matillion.
